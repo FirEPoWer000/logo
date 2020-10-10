@@ -1,0 +1,25 @@
+﻿{
+    "name": "ZEFU", 
+    "logoURI": "https://pbs.twimg.com/profile_images/988829341365628934/XOIy_-mB_400x400.jpg", 
+    "keywords": [
+        "defi", 
+        "ZEFU", 
+        "Zenfuse"
+    ], 
+    "timestamp": "2020-10-09T23:40:34.305Z", 
+    "tokens": [
+        {
+            "chainId": 1, 
+            "address": "0xc884ae579438c6bf8b61f6e7d1246abefbf8e3ee", 
+            "name": "Zenfuse", 
+            "symbol": "DEFI", 
+            "decimals": 18, 
+            "logoURI": "https://pbs.twimg.com/profile_images/988829341365628934/XOIy_-mB_400x400.jpg"
+        }
+    ], 
+    "version": {
+        "major": 0, 
+        "minor": 0, 
+        "patch": 0
+    }
+}
